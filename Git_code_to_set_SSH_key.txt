@@ -1,4 +1,4 @@
-Create the SSH key and paste it to gitgub
+A. Create the SSH key and paste it to gitgub
 Copy below to git bush terminal
 
 1. ssh-keygen -t rsa -b 4096 -C "nirbhaysingh.iitm@gmail.com"
@@ -13,4 +13,10 @@ Code the SSH code to git hub. Below the command to copy SSH key the clip
 clip < ~/.ssh/id_ed25519.pub
 
 
+B. Paste it to Github
 
+go to github profile setting and click on SSH and GPG keys
+
+Click on new SSH key
+
+Give any title and paste in key box and save

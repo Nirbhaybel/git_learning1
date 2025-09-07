@@ -1,10 +1,10 @@
-1.First time in a computer(> means need to enter in git bush terminal)
+1.AFirst time in a computer(> means need to enter in git bush terminal)
 
 >git config --global user.name "Nirbhay Kumar Singh"
 
 >git config --global user.email "nirbhaysingh.iitm@gmail.com"
 
-check log
+B check log
 
 >git config list
 
@@ -12,3 +12,11 @@ want to unset the name and email
 
 >git config --global --unset user.name
 >git config --global --unset user.email
+
+C want to edit on vs code
+
+>git config --global -e
+
+D. If want to edit remote
+
+git config -e
